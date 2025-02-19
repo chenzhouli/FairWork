@@ -3,7 +3,7 @@
 FairWork is a comprehensive fairness evaluation framework that assess how sensitive user attributes influence job recommendations. 
 It provide both individual and group level evaluation.
 
-🎥 **Demo Video:** [Watch here](https://github.com/chenzhouli/FairWork/releases/download/v1.0/demovideo.mp4)
+🎥 **Demo Video:** [Download here](https://github.com/chenzhouli/FairWork/releases/download/v1.0/demovideo.mp4)  [Youtube link](https://youtu.be/7ovLIeH1shs)
 
 ## Workflow
 ![workflow](https://github.com/user-attachments/assets/47705a67-e422-4be5-846e-d761df6ccc17)
