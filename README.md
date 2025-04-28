@@ -5,6 +5,8 @@ It provide both individual and group level evaluation.
 
 🎥 **Demo Video:** [Download here](https://github.com/chenzhouli/FairWork/releases/download/v1.0/demovideo.mp4)  [Youtube link](https://youtu.be/7ovLIeH1shs)
 
+A demo is available on Hugging Face Spaces for demonstration [here](https://huggingface.co/spaces/chenzhouliiii/FairWork).
+
 ## Workflow
 ![workflow](https://github.com/user-attachments/assets/47705a67-e422-4be5-846e-d761df6ccc17)
 *Workflow of the system.*
