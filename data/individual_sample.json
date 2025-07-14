@@ -1,0 +1,35 @@
+{
+    "diff_data": {
+      "1": [
+        {
+          "perturbed_keys": "Age",
+          "combo_str": "Gender: Male, Age: >35",
+          "rank_diff": 1,
+          "score_diff": 1,
+          "new_rank": 2,
+          "new_score": 5.5
+        },
+        {
+          "perturbed_keys": "Gender",
+          "combo_str": "Gender: Female, Age: <35",
+          "rank_diff": -1,
+          "score_diff": -0.7,
+          "new_rank": 4,
+          "new_score": 3.8
+        }
+      ],
+      "2": [
+        {
+          "perturbed_keys": "Gender, Age",
+          "combo_str": "Gender: Female, Age: >35",
+          "rank_diff": 0,
+          "score_diff": -0.3,
+          "new_rank": 3,
+          "new_score": 4.2
+        }
+      ]
+    },
+    "num_candidates": 4,
+    "baseline_rank": 3
+  }
+  

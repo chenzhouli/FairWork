@@ -1,0 +1,3752 @@
+[
+    {
+        "user_id": 536269,
+        "job_id": 17628,
+        "label": 1
+    },
+    {
+        "user_id": 536269,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 536269,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 536269,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 536269,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 1010270,
+        "job_id": 615224,
+        "label": 1
+    },
+    {
+        "user_id": 1010270,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1010270,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 1010270,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 1010270,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 496181,
+        "job_id": 328410,
+        "label": 1
+    },
+    {
+        "user_id": 496181,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 496181,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 496181,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 496181,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 882120,
+        "job_id": 855142,
+        "label": 1
+    },
+    {
+        "user_id": 882120,
+        "job_id": 239630,
+        "label": 1
+    },
+    {
+        "user_id": 882120,
+        "job_id": 278474,
+        "label": 0
+    },
+    {
+        "user_id": 882120,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 882120,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 980034,
+        "job_id": 7558,
+        "label": 1
+    },
+    {
+        "user_id": 980034,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 980034,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 980034,
+        "job_id": 215844,
+        "label": 0
+    },
+    {
+        "user_id": 980034,
+        "job_id": 1026481,
+        "label": 0
+    },
+    {
+        "user_id": 680691,
+        "job_id": 690848,
+        "label": 1
+    },
+    {
+        "user_id": 680691,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 680691,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 680691,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 680691,
+        "job_id": 1026481,
+        "label": 0
+    },
+    {
+        "user_id": 924034,
+        "job_id": 1057775,
+        "label": 1
+    },
+    {
+        "user_id": 924034,
+        "job_id": 431104,
+        "label": 1
+    },
+    {
+        "user_id": 924034,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 924034,
+        "job_id": 24526,
+        "label": 0
+    },
+    {
+        "user_id": 924034,
+        "job_id": 617256,
+        "label": 0
+    },
+    {
+        "user_id": 163962,
+        "job_id": 516269,
+        "label": 1
+    },
+    {
+        "user_id": 163962,
+        "job_id": 524505,
+        "label": 0
+    },
+    {
+        "user_id": 163962,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 163962,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 163962,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 1291691,
+        "job_id": 943080,
+        "label": 1
+    },
+    {
+        "user_id": 1291691,
+        "job_id": 691966,
+        "label": 1
+    },
+    {
+        "user_id": 1291691,
+        "job_id": 278474,
+        "label": 0
+    },
+    {
+        "user_id": 1291691,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 1291691,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 1452190,
+        "job_id": 1053919,
+        "label": 1
+    },
+    {
+        "user_id": 1452190,
+        "job_id": 765094,
+        "label": 1
+    },
+    {
+        "user_id": 1452190,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1452190,
+        "job_id": 802766,
+        "label": 0
+    },
+    {
+        "user_id": 1452190,
+        "job_id": 314156,
+        "label": 0
+    },
+    {
+        "user_id": 1325907,
+        "job_id": 401922,
+        "label": 1
+    },
+    {
+        "user_id": 1325907,
+        "job_id": 623867,
+        "label": 1
+    },
+    {
+        "user_id": 1325907,
+        "job_id": 16336,
+        "label": 0
+    },
+    {
+        "user_id": 1325907,
+        "job_id": 920362,
+        "label": 0
+    },
+    {
+        "user_id": 1325907,
+        "job_id": 215478,
+        "label": 0
+    },
+    {
+        "user_id": 453857,
+        "job_id": 462753,
+        "label": 1
+    },
+    {
+        "user_id": 453857,
+        "job_id": 878561,
+        "label": 1
+    },
+    {
+        "user_id": 453857,
+        "job_id": 278474,
+        "label": 0
+    },
+    {
+        "user_id": 453857,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 453857,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 1168445,
+        "job_id": 327681,
+        "label": 1
+    },
+    {
+        "user_id": 1168445,
+        "job_id": 524505,
+        "label": 0
+    },
+    {
+        "user_id": 1168445,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 1168445,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 1168445,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 520953,
+        "job_id": 798946,
+        "label": 1
+    },
+    {
+        "user_id": 520953,
+        "job_id": 42838,
+        "label": 1
+    },
+    {
+        "user_id": 520953,
+        "job_id": 278474,
+        "label": 0
+    },
+    {
+        "user_id": 520953,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 520953,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 360408,
+        "job_id": 708400,
+        "label": 1
+    },
+    {
+        "user_id": 360408,
+        "job_id": 1052550,
+        "label": 1
+    },
+    {
+        "user_id": 360408,
+        "job_id": 278474,
+        "label": 0
+    },
+    {
+        "user_id": 360408,
+        "job_id": 215844,
+        "label": 0
+    },
+    {
+        "user_id": 360408,
+        "job_id": 1026481,
+        "label": 0
+    },
+    {
+        "user_id": 1429086,
+        "job_id": 559246,
+        "label": 1
+    },
+    {
+        "user_id": 1429086,
+        "job_id": 887088,
+        "label": 1
+    },
+    {
+        "user_id": 1429086,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1429086,
+        "job_id": 24526,
+        "label": 0
+    },
+    {
+        "user_id": 1429086,
+        "job_id": 35625,
+        "label": 0
+    },
+    {
+        "user_id": 826239,
+        "job_id": 247170,
+        "label": 1
+    },
+    {
+        "user_id": 826239,
+        "job_id": 883637,
+        "label": 1
+    },
+    {
+        "user_id": 826239,
+        "job_id": 278474,
+        "label": 0
+    },
+    {
+        "user_id": 826239,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 826239,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 1222758,
+        "job_id": 1094134,
+        "label": 1
+    },
+    {
+        "user_id": 1222758,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1222758,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 1222758,
+        "job_id": 215844,
+        "label": 0
+    },
+    {
+        "user_id": 1222758,
+        "job_id": 1026481,
+        "label": 0
+    },
+    {
+        "user_id": 1404026,
+        "job_id": 184792,
+        "label": 1
+    },
+    {
+        "user_id": 1404026,
+        "job_id": 573912,
+        "label": 1
+    },
+    {
+        "user_id": 1404026,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1404026,
+        "job_id": 516049,
+        "label": 0
+    },
+    {
+        "user_id": 1404026,
+        "job_id": 617256,
+        "label": 0
+    },
+    {
+        "user_id": 1148655,
+        "job_id": 384977,
+        "label": 1
+    },
+    {
+        "user_id": 1148655,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1148655,
+        "job_id": 24518,
+        "label": 0
+    },
+    {
+        "user_id": 1148655,
+        "job_id": 215844,
+        "label": 0
+    },
+    {
+        "user_id": 1148655,
+        "job_id": 1026481,
+        "label": 0
+    },
+    {
+        "user_id": 1386538,
+        "job_id": 251448,
+        "label": 1
+    },
+    {
+        "user_id": 1386538,
+        "job_id": 1006703,
+        "label": 1
+    },
+    {
+        "user_id": 1386538,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 1386538,
+        "job_id": 1007570,
+        "label": 0
+    },
+    {
+        "user_id": 1386538,
+        "job_id": 617256,
+        "label": 0
+    },
+    {
+        "user_id": 162566,
+        "job_id": 131663,
+        "label": 1
+    },
+    {
+        "user_id": 162566,
+        "job_id": 262360,
+        "label": 0
+    },
+    {
+        "user_id": 162566,
+        "job_id": 1097673,
+        "label": 0
+    },
+    {
+        "user_id": 162566,
+        "job_id": 920359,
+        "label": 0
+    },
+    {
+        "user_id": 162566,
+        "job_id": 215473,
+        "label": 0
+    },
+    {
+        "user_id": 1290940,
+        "job_id": 514132,
+        "label": 1
+    },
+    {
+        "user_id": 1290940,
+        "job_id": 17191,
+        "label": 1
+    },
+    {
+        "user_id": 1290940,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 1290940,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 1290940,
+        "job_id": 732283,
+        "label": 0
+    },
+    {
+        "user_id": 1176506,
+        "job_id": 574359,
+        "label": 1
+    },
+    {
+        "user_id": 1176506,
+        "job_id": 313525,
+        "label": 1
+    },
+    {
+        "user_id": 1176506,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 1176506,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 1176506,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 280634,
+        "job_id": 521261,
+        "label": 1
+    },
+    {
+        "user_id": 280634,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 280634,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 280634,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 280634,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 1446340,
+        "job_id": 784924,
+        "label": 1
+    },
+    {
+        "user_id": 1446340,
+        "job_id": 844279,
+        "label": 1
+    },
+    {
+        "user_id": 1446340,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 1446340,
+        "job_id": 537967,
+        "label": 0
+    },
+    {
+        "user_id": 1446340,
+        "job_id": 241655,
+        "label": 0
+    },
+    {
+        "user_id": 1298949,
+        "job_id": 251002,
+        "label": 1
+    },
+    {
+        "user_id": 1298949,
+        "job_id": 573110,
+        "label": 1
+    },
+    {
+        "user_id": 1298949,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 1298949,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 1298949,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 93101,
+        "job_id": 213897,
+        "label": 1
+    },
+    {
+        "user_id": 93101,
+        "job_id": 1113954,
+        "label": 1
+    },
+    {
+        "user_id": 93101,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 93101,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 93101,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 381518,
+        "job_id": 284032,
+        "label": 1
+    },
+    {
+        "user_id": 381518,
+        "job_id": 611312,
+        "label": 1
+    },
+    {
+        "user_id": 381518,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 381518,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 381518,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 213499,
+        "job_id": 1057402,
+        "label": 1
+    },
+    {
+        "user_id": 213499,
+        "job_id": 590623,
+        "label": 1
+    },
+    {
+        "user_id": 213499,
+        "job_id": 767334,
+        "label": 0
+    },
+    {
+        "user_id": 213499,
+        "job_id": 176118,
+        "label": 0
+    },
+    {
+        "user_id": 213499,
+        "job_id": 765054,
+        "label": 0
+    },
+    {
+        "user_id": 7229,
+        "job_id": 802205,
+        "label": 1
+    },
+    {
+        "user_id": 7229,
+        "job_id": 774058,
+        "label": 1
+    },
+    {
+        "user_id": 7229,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 7229,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 7229,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 1035112,
+        "job_id": 473696,
+        "label": 1
+    },
+    {
+        "user_id": 1035112,
+        "job_id": 790527,
+        "label": 1
+    },
+    {
+        "user_id": 1035112,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 1035112,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 1035112,
+        "job_id": 732283,
+        "label": 0
+    },
+    {
+        "user_id": 507314,
+        "job_id": 932483,
+        "label": 1
+    },
+    {
+        "user_id": 507314,
+        "job_id": 1103875,
+        "label": 1
+    },
+    {
+        "user_id": 507314,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 507314,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 507314,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 295624,
+        "job_id": 38919,
+        "label": 1
+    },
+    {
+        "user_id": 295624,
+        "job_id": 1109503,
+        "label": 1
+    },
+    {
+        "user_id": 295624,
+        "job_id": 767334,
+        "label": 0
+    },
+    {
+        "user_id": 295624,
+        "job_id": 176118,
+        "label": 0
+    },
+    {
+        "user_id": 295624,
+        "job_id": 765054,
+        "label": 0
+    },
+    {
+        "user_id": 1203554,
+        "job_id": 245699,
+        "label": 1
+    },
+    {
+        "user_id": 1203554,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 1203554,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 1203554,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 1203554,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 1470996,
+        "job_id": 1104503,
+        "label": 1
+    },
+    {
+        "user_id": 1470996,
+        "job_id": 482533,
+        "label": 1
+    },
+    {
+        "user_id": 1470996,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 1470996,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 1470996,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 1022587,
+        "job_id": 661315,
+        "label": 1
+    },
+    {
+        "user_id": 1022587,
+        "job_id": 225505,
+        "label": 1
+    },
+    {
+        "user_id": 1022587,
+        "job_id": 898411,
+        "label": 0
+    },
+    {
+        "user_id": 1022587,
+        "job_id": 241655,
+        "label": 0
+    },
+    {
+        "user_id": 1022587,
+        "job_id": 928895,
+        "label": 0
+    },
+    {
+        "user_id": 1419655,
+        "job_id": 451285,
+        "label": 1
+    },
+    {
+        "user_id": 1419655,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 1419655,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 1419655,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 1419655,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 900344,
+        "job_id": 1089412,
+        "label": 1
+    },
+    {
+        "user_id": 900344,
+        "job_id": 780845,
+        "label": 1
+    },
+    {
+        "user_id": 900344,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 900344,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 900344,
+        "job_id": 732283,
+        "label": 0
+    },
+    {
+        "user_id": 1196598,
+        "job_id": 1075525,
+        "label": 1
+    },
+    {
+        "user_id": 1196598,
+        "job_id": 593903,
+        "label": 1
+    },
+    {
+        "user_id": 1196598,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 1196598,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 1196598,
+        "job_id": 732283,
+        "label": 0
+    },
+    {
+        "user_id": 522439,
+        "job_id": 585531,
+        "label": 1
+    },
+    {
+        "user_id": 522439,
+        "job_id": 1084233,
+        "label": 1
+    },
+    {
+        "user_id": 522439,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 522439,
+        "job_id": 931172,
+        "label": 0
+    },
+    {
+        "user_id": 522439,
+        "job_id": 634864,
+        "label": 0
+    },
+    {
+        "user_id": 24686,
+        "job_id": 586697,
+        "label": 1
+    },
+    {
+        "user_id": 24686,
+        "job_id": 311951,
+        "label": 1
+    },
+    {
+        "user_id": 24686,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 24686,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 24686,
+        "job_id": 732283,
+        "label": 0
+    },
+    {
+        "user_id": 1017444,
+        "job_id": 866215,
+        "label": 1
+    },
+    {
+        "user_id": 1017444,
+        "job_id": 1007202,
+        "label": 1
+    },
+    {
+        "user_id": 1017444,
+        "job_id": 525551,
+        "label": 0
+    },
+    {
+        "user_id": 1017444,
+        "job_id": 79203,
+        "label": 0
+    },
+    {
+        "user_id": 1017444,
+        "job_id": 307178,
+        "label": 0
+    },
+    {
+        "user_id": 1333343,
+        "job_id": 446704,
+        "label": 1
+    },
+    {
+        "user_id": 1333343,
+        "job_id": 847378,
+        "label": 1
+    },
+    {
+        "user_id": 1333343,
+        "job_id": 570720,
+        "label": 0
+    },
+    {
+        "user_id": 1333343,
+        "job_id": 1028074,
+        "label": 0
+    },
+    {
+        "user_id": 1333343,
+        "job_id": 765050,
+        "label": 0
+    },
+    {
+        "user_id": 584948,
+        "job_id": 626378,
+        "label": 1
+    },
+    {
+        "user_id": 584948,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 584948,
+        "job_id": 11573,
+        "label": 0
+    },
+    {
+        "user_id": 584948,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 584948,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 1211789,
+        "job_id": 145235,
+        "label": 1
+    },
+    {
+        "user_id": 1211789,
+        "job_id": 919422,
+        "label": 1
+    },
+    {
+        "user_id": 1211789,
+        "job_id": 920890,
+        "label": 0
+    },
+    {
+        "user_id": 1211789,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1211789,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 1373784,
+        "job_id": 851581,
+        "label": 1
+    },
+    {
+        "user_id": 1373784,
+        "job_id": 281711,
+        "label": 1
+    },
+    {
+        "user_id": 1373784,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1373784,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1373784,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 60646,
+        "job_id": 555027,
+        "label": 1
+    },
+    {
+        "user_id": 60646,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 60646,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 60646,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 60646,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 365527,
+        "job_id": 667144,
+        "label": 1
+    },
+    {
+        "user_id": 365527,
+        "job_id": 275372,
+        "label": 1
+    },
+    {
+        "user_id": 365527,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 365527,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 365527,
+        "job_id": 345229,
+        "label": 0
+    },
+    {
+        "user_id": 1166237,
+        "job_id": 512684,
+        "label": 1
+    },
+    {
+        "user_id": 1166237,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 1166237,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1166237,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 1166237,
+        "job_id": 345229,
+        "label": 0
+    },
+    {
+        "user_id": 1101216,
+        "job_id": 744509,
+        "label": 1
+    },
+    {
+        "user_id": 1101216,
+        "job_id": 310717,
+        "label": 1
+    },
+    {
+        "user_id": 1101216,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1101216,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1101216,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 758811,
+        "job_id": 295180,
+        "label": 1
+    },
+    {
+        "user_id": 758811,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 758811,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 758811,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 758811,
+        "job_id": 345229,
+        "label": 0
+    },
+    {
+        "user_id": 1057142,
+        "job_id": 939599,
+        "label": 1
+    },
+    {
+        "user_id": 1057142,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 1057142,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1057142,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1057142,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 1153692,
+        "job_id": 450817,
+        "label": 1
+    },
+    {
+        "user_id": 1153692,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 1153692,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1153692,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 1153692,
+        "job_id": 345229,
+        "label": 0
+    },
+    {
+        "user_id": 523805,
+        "job_id": 511830,
+        "label": 1
+    },
+    {
+        "user_id": 523805,
+        "job_id": 865889,
+        "label": 1
+    },
+    {
+        "user_id": 523805,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 523805,
+        "job_id": 1097022,
+        "label": 0
+    },
+    {
+        "user_id": 523805,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 936020,
+        "job_id": 880399,
+        "label": 1
+    },
+    {
+        "user_id": 936020,
+        "job_id": 27983,
+        "label": 1
+    },
+    {
+        "user_id": 936020,
+        "job_id": 11573,
+        "label": 0
+    },
+    {
+        "user_id": 936020,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 936020,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 1272940,
+        "job_id": 89930,
+        "label": 1
+    },
+    {
+        "user_id": 1272940,
+        "job_id": 271319,
+        "label": 1
+    },
+    {
+        "user_id": 1272940,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1272940,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 1272940,
+        "job_id": 345229,
+        "label": 0
+    },
+    {
+        "user_id": 732627,
+        "job_id": 908934,
+        "label": 1
+    },
+    {
+        "user_id": 732627,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 732627,
+        "job_id": 11573,
+        "label": 0
+    },
+    {
+        "user_id": 732627,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 732627,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 423241,
+        "job_id": 751925,
+        "label": 1
+    },
+    {
+        "user_id": 423241,
+        "job_id": 841682,
+        "label": 1
+    },
+    {
+        "user_id": 423241,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 423241,
+        "job_id": 224571,
+        "label": 0
+    },
+    {
+        "user_id": 423241,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 686643,
+        "job_id": 617962,
+        "label": 1
+    },
+    {
+        "user_id": 686643,
+        "job_id": 338175,
+        "label": 1
+    },
+    {
+        "user_id": 686643,
+        "job_id": 1097022,
+        "label": 0
+    },
+    {
+        "user_id": 686643,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 686643,
+        "job_id": 345229,
+        "label": 0
+    },
+    {
+        "user_id": 633164,
+        "job_id": 554334,
+        "label": 1
+    },
+    {
+        "user_id": 633164,
+        "job_id": 912412,
+        "label": 1
+    },
+    {
+        "user_id": 633164,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 633164,
+        "job_id": 920890,
+        "label": 0
+    },
+    {
+        "user_id": 633164,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1402771,
+        "job_id": 314095,
+        "label": 1
+    },
+    {
+        "user_id": 1402771,
+        "job_id": 145524,
+        "label": 1
+    },
+    {
+        "user_id": 1402771,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 1402771,
+        "job_id": 224571,
+        "label": 0
+    },
+    {
+        "user_id": 1402771,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1390513,
+        "job_id": 628493,
+        "label": 1
+    },
+    {
+        "user_id": 1390513,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 1390513,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 1390513,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 1390513,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 326032,
+        "job_id": 466025,
+        "label": 1
+    },
+    {
+        "user_id": 326032,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 326032,
+        "job_id": 580921,
+        "label": 0
+    },
+    {
+        "user_id": 326032,
+        "job_id": 34095,
+        "label": 0
+    },
+    {
+        "user_id": 326032,
+        "job_id": 496772,
+        "label": 0
+    },
+    {
+        "user_id": 1257424,
+        "job_id": 267981,
+        "label": 1
+    },
+    {
+        "user_id": 1257424,
+        "job_id": 910352,
+        "label": 1
+    },
+    {
+        "user_id": 1257424,
+        "job_id": 815243,
+        "label": 0
+    },
+    {
+        "user_id": 1257424,
+        "job_id": 224571,
+        "label": 0
+    },
+    {
+        "user_id": 1257424,
+        "job_id": 439598,
+        "label": 0
+    },
+    {
+        "user_id": 1158855,
+        "job_id": 222750,
+        "label": 1
+    },
+    {
+        "user_id": 1158855,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 1158855,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 1158855,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 1158855,
+        "job_id": 223954,
+        "label": 0
+    },
+    {
+        "user_id": 276531,
+        "job_id": 740221,
+        "label": 1
+    },
+    {
+        "user_id": 276531,
+        "job_id": 1030674,
+        "label": 1
+    },
+    {
+        "user_id": 276531,
+        "job_id": 1081649,
+        "label": 0
+    },
+    {
+        "user_id": 276531,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 276531,
+        "job_id": 11273,
+        "label": 0
+    },
+    {
+        "user_id": 855342,
+        "job_id": 597821,
+        "label": 1
+    },
+    {
+        "user_id": 855342,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 855342,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 855342,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 855342,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 1007323,
+        "job_id": 1107299,
+        "label": 1
+    },
+    {
+        "user_id": 1007323,
+        "job_id": 1107300,
+        "label": 1
+    },
+    {
+        "user_id": 1007323,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 1007323,
+        "job_id": 11273,
+        "label": 0
+    },
+    {
+        "user_id": 1007323,
+        "job_id": 248534,
+        "label": 0
+    },
+    {
+        "user_id": 719547,
+        "job_id": 1100681,
+        "label": 1
+    },
+    {
+        "user_id": 719547,
+        "job_id": 204225,
+        "label": 1
+    },
+    {
+        "user_id": 719547,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 719547,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 719547,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 769833,
+        "job_id": 317629,
+        "label": 1
+    },
+    {
+        "user_id": 769833,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 769833,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 769833,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 769833,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 411929,
+        "job_id": 164771,
+        "label": 1
+    },
+    {
+        "user_id": 411929,
+        "job_id": 796109,
+        "label": 1
+    },
+    {
+        "user_id": 411929,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 411929,
+        "job_id": 11273,
+        "label": 0
+    },
+    {
+        "user_id": 411929,
+        "job_id": 248534,
+        "label": 0
+    },
+    {
+        "user_id": 294651,
+        "job_id": 2435,
+        "label": 1
+    },
+    {
+        "user_id": 294651,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 294651,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 294651,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 294651,
+        "job_id": 223954,
+        "label": 0
+    },
+    {
+        "user_id": 1101805,
+        "job_id": 306918,
+        "label": 1
+    },
+    {
+        "user_id": 1101805,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 1101805,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 1101805,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 1101805,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 1108143,
+        "job_id": 780230,
+        "label": 1
+    },
+    {
+        "user_id": 1108143,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 1108143,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 1108143,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 1108143,
+        "job_id": 223954,
+        "label": 0
+    },
+    {
+        "user_id": 987026,
+        "job_id": 388028,
+        "label": 1
+    },
+    {
+        "user_id": 987026,
+        "job_id": 938989,
+        "label": 1
+    },
+    {
+        "user_id": 987026,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 987026,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 987026,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 565602,
+        "job_id": 546074,
+        "label": 1
+    },
+    {
+        "user_id": 565602,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 565602,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 565602,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 565602,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 1291985,
+        "job_id": 182093,
+        "label": 1
+    },
+    {
+        "user_id": 1291985,
+        "job_id": 813582,
+        "label": 1
+    },
+    {
+        "user_id": 1291985,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 1291985,
+        "job_id": 11273,
+        "label": 0
+    },
+    {
+        "user_id": 1291985,
+        "job_id": 248534,
+        "label": 0
+    },
+    {
+        "user_id": 528831,
+        "job_id": 997575,
+        "label": 1
+    },
+    {
+        "user_id": 528831,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 528831,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 528831,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 528831,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 602768,
+        "job_id": 281777,
+        "label": 1
+    },
+    {
+        "user_id": 602768,
+        "job_id": 574479,
+        "label": 1
+    },
+    {
+        "user_id": 602768,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 602768,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 602768,
+        "job_id": 223954,
+        "label": 0
+    },
+    {
+        "user_id": 944890,
+        "job_id": 426495,
+        "label": 1
+    },
+    {
+        "user_id": 944890,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 944890,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 944890,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 944890,
+        "job_id": 223954,
+        "label": 0
+    },
+    {
+        "user_id": 6524,
+        "job_id": 377686,
+        "label": 1
+    },
+    {
+        "user_id": 6524,
+        "job_id": 563050,
+        "label": 1
+    },
+    {
+        "user_id": 6524,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 6524,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 6524,
+        "job_id": 11273,
+        "label": 0
+    },
+    {
+        "user_id": 740959,
+        "job_id": 1029411,
+        "label": 1
+    },
+    {
+        "user_id": 740959,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 740959,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 740959,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 740959,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 442583,
+        "job_id": 39136,
+        "label": 1
+    },
+    {
+        "user_id": 442583,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 442583,
+        "job_id": 511363,
+        "label": 0
+    },
+    {
+        "user_id": 442583,
+        "job_id": 928775,
+        "label": 0
+    },
+    {
+        "user_id": 442583,
+        "job_id": 10962,
+        "label": 0
+    },
+    {
+        "user_id": 1223427,
+        "job_id": 63406,
+        "label": 1
+    },
+    {
+        "user_id": 1223427,
+        "job_id": 373944,
+        "label": 1
+    },
+    {
+        "user_id": 1223427,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 1223427,
+        "job_id": 511368,
+        "label": 0
+    },
+    {
+        "user_id": 1223427,
+        "job_id": 281608,
+        "label": 0
+    },
+    {
+        "user_id": 1005254,
+        "job_id": 904821,
+        "label": 1
+    },
+    {
+        "user_id": 1005254,
+        "job_id": 157729,
+        "label": 1
+    },
+    {
+        "user_id": 1005254,
+        "job_id": 278830,
+        "label": 0
+    },
+    {
+        "user_id": 1005254,
+        "job_id": 175499,
+        "label": 0
+    },
+    {
+        "user_id": 1005254,
+        "job_id": 11273,
+        "label": 0
+    },
+    {
+        "user_id": 1308606,
+        "job_id": 238287,
+        "label": 1
+    },
+    {
+        "user_id": 1308606,
+        "job_id": 1072861,
+        "label": 1
+    },
+    {
+        "user_id": 1308606,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 1308606,
+        "job_id": 915519,
+        "label": 0
+    },
+    {
+        "user_id": 1308606,
+        "job_id": 371062,
+        "label": 0
+    },
+    {
+        "user_id": 523970,
+        "job_id": 447368,
+        "label": 1
+    },
+    {
+        "user_id": 523970,
+        "job_id": 150330,
+        "label": 1
+    },
+    {
+        "user_id": 523970,
+        "job_id": 915519,
+        "label": 0
+    },
+    {
+        "user_id": 523970,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 523970,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 1280903,
+        "job_id": 538958,
+        "label": 1
+    },
+    {
+        "user_id": 1280903,
+        "job_id": 750279,
+        "label": 1
+    },
+    {
+        "user_id": 1280903,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 1280903,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 1280903,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 1448578,
+        "job_id": 748204,
+        "label": 1
+    },
+    {
+        "user_id": 1448578,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 1448578,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 1448578,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 1448578,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 1211363,
+        "job_id": 285327,
+        "label": 1
+    },
+    {
+        "user_id": 1211363,
+        "job_id": 887248,
+        "label": 1
+    },
+    {
+        "user_id": 1211363,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 1211363,
+        "job_id": 915519,
+        "label": 0
+    },
+    {
+        "user_id": 1211363,
+        "job_id": 371062,
+        "label": 0
+    },
+    {
+        "user_id": 288544,
+        "job_id": 867876,
+        "label": 1
+    },
+    {
+        "user_id": 288544,
+        "job_id": 487469,
+        "label": 1
+    },
+    {
+        "user_id": 288544,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 288544,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 288544,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 225279,
+        "job_id": 1030206,
+        "label": 1
+    },
+    {
+        "user_id": 225279,
+        "job_id": 462632,
+        "label": 1
+    },
+    {
+        "user_id": 225279,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 225279,
+        "job_id": 849984,
+        "label": 0
+    },
+    {
+        "user_id": 225279,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 1263436,
+        "job_id": 611172,
+        "label": 1
+    },
+    {
+        "user_id": 1263436,
+        "job_id": 160481,
+        "label": 1
+    },
+    {
+        "user_id": 1263436,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 1263436,
+        "job_id": 849984,
+        "label": 0
+    },
+    {
+        "user_id": 1263436,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 187671,
+        "job_id": 578049,
+        "label": 1
+    },
+    {
+        "user_id": 187671,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 187671,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 187671,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 187671,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 48281,
+        "job_id": 338592,
+        "label": 1
+    },
+    {
+        "user_id": 48281,
+        "job_id": 301412,
+        "label": 1
+    },
+    {
+        "user_id": 48281,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 48281,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 48281,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 1268627,
+        "job_id": 172133,
+        "label": 1
+    },
+    {
+        "user_id": 1268627,
+        "job_id": 385236,
+        "label": 0
+    },
+    {
+        "user_id": 1268627,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 1268627,
+        "job_id": 371062,
+        "label": 0
+    },
+    {
+        "user_id": 1268627,
+        "job_id": 739446,
+        "label": 0
+    },
+    {
+        "user_id": 1399301,
+        "job_id": 561954,
+        "label": 1
+    },
+    {
+        "user_id": 1399301,
+        "job_id": 851436,
+        "label": 1
+    },
+    {
+        "user_id": 1399301,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 1399301,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 1399301,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 867440,
+        "job_id": 564702,
+        "label": 1
+    },
+    {
+        "user_id": 867440,
+        "job_id": 452905,
+        "label": 1
+    },
+    {
+        "user_id": 867440,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 867440,
+        "job_id": 1103940,
+        "label": 0
+    },
+    {
+        "user_id": 867440,
+        "job_id": 428409,
+        "label": 0
+    },
+    {
+        "user_id": 1320724,
+        "job_id": 995819,
+        "label": 1
+    },
+    {
+        "user_id": 1320724,
+        "job_id": 407,
+        "label": 1
+    },
+    {
+        "user_id": 1320724,
+        "job_id": 915519,
+        "label": 0
+    },
+    {
+        "user_id": 1320724,
+        "job_id": 371062,
+        "label": 0
+    },
+    {
+        "user_id": 1320724,
+        "job_id": 739446,
+        "label": 0
+    },
+    {
+        "user_id": 220314,
+        "job_id": 493306,
+        "label": 1
+    },
+    {
+        "user_id": 220314,
+        "job_id": 973023,
+        "label": 1
+    },
+    {
+        "user_id": 220314,
+        "job_id": 849984,
+        "label": 0
+    },
+    {
+        "user_id": 220314,
+        "job_id": 428409,
+        "label": 0
+    },
+    {
+        "user_id": 220314,
+        "job_id": 542840,
+        "label": 0
+    },
+    {
+        "user_id": 813527,
+        "job_id": 215289,
+        "label": 1
+    },
+    {
+        "user_id": 813527,
+        "job_id": 469854,
+        "label": 1
+    },
+    {
+        "user_id": 813527,
+        "job_id": 849984,
+        "label": 0
+    },
+    {
+        "user_id": 813527,
+        "job_id": 371062,
+        "label": 0
+    },
+    {
+        "user_id": 813527,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 203488,
+        "job_id": 372843,
+        "label": 1
+    },
+    {
+        "user_id": 203488,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 203488,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 203488,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 203488,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 641951,
+        "job_id": 216528,
+        "label": 1
+    },
+    {
+        "user_id": 641951,
+        "job_id": 1089068,
+        "label": 1
+    },
+    {
+        "user_id": 641951,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 641951,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 641951,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 162229,
+        "job_id": 765776,
+        "label": 1
+    },
+    {
+        "user_id": 162229,
+        "job_id": 838118,
+        "label": 1
+    },
+    {
+        "user_id": 162229,
+        "job_id": 915519,
+        "label": 0
+    },
+    {
+        "user_id": 162229,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 162229,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 687137,
+        "job_id": 649917,
+        "label": 1
+    },
+    {
+        "user_id": 687137,
+        "job_id": 377043,
+        "label": 0
+    },
+    {
+        "user_id": 687137,
+        "job_id": 1030206,
+        "label": 0
+    },
+    {
+        "user_id": 687137,
+        "job_id": 264564,
+        "label": 0
+    },
+    {
+        "user_id": 687137,
+        "job_id": 452724,
+        "label": 0
+    },
+    {
+        "user_id": 939491,
+        "job_id": 222662,
+        "label": 1
+    },
+    {
+        "user_id": 939491,
+        "job_id": 13319,
+        "label": 1
+    },
+    {
+        "user_id": 939491,
+        "job_id": 915519,
+        "label": 0
+    },
+    {
+        "user_id": 939491,
+        "job_id": 371062,
+        "label": 0
+    },
+    {
+        "user_id": 939491,
+        "job_id": 739446,
+        "label": 0
+    },
+    {
+        "user_id": 1448028,
+        "job_id": 110571,
+        "label": 1
+    },
+    {
+        "user_id": 1448028,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 1448028,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 1448028,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 1448028,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 1074279,
+        "job_id": 178338,
+        "label": 1
+    },
+    {
+        "user_id": 1074279,
+        "job_id": 746535,
+        "label": 1
+    },
+    {
+        "user_id": 1074279,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 1074279,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 1074279,
+        "job_id": 500385,
+        "label": 0
+    },
+    {
+        "user_id": 1248414,
+        "job_id": 373503,
+        "label": 1
+    },
+    {
+        "user_id": 1248414,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 1248414,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 1248414,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 1248414,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 1116534,
+        "job_id": 951995,
+        "label": 1
+    },
+    {
+        "user_id": 1116534,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 1116534,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 1116534,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 1116534,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 636862,
+        "job_id": 367947,
+        "label": 1
+    },
+    {
+        "user_id": 636862,
+        "job_id": 744060,
+        "label": 1
+    },
+    {
+        "user_id": 636862,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 636862,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 636862,
+        "job_id": 500385,
+        "label": 0
+    },
+    {
+        "user_id": 506634,
+        "job_id": 281610,
+        "label": 1
+    },
+    {
+        "user_id": 506634,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 506634,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 506634,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 506634,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 903999,
+        "job_id": 298954,
+        "label": 1
+    },
+    {
+        "user_id": 903999,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 903999,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 903999,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 903999,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 471196,
+        "job_id": 614054,
+        "label": 1
+    },
+    {
+        "user_id": 471196,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 471196,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 471196,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 471196,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 1145270,
+        "job_id": 587837,
+        "label": 1
+    },
+    {
+        "user_id": 1145270,
+        "job_id": 180304,
+        "label": 0
+    },
+    {
+        "user_id": 1145270,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 1145270,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 1145270,
+        "job_id": 500385,
+        "label": 0
+    },
+    {
+        "user_id": 1390746,
+        "job_id": 500385,
+        "label": 1
+    },
+    {
+        "user_id": 1390746,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 1390746,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 1390746,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 1390746,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 1199132,
+        "job_id": 206566,
+        "label": 1
+    },
+    {
+        "user_id": 1199132,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 1199132,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 1199132,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 1199132,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 791294,
+        "job_id": 386661,
+        "label": 1
+    },
+    {
+        "user_id": 791294,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 791294,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 791294,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 791294,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 379817,
+        "job_id": 1078749,
+        "label": 1
+    },
+    {
+        "user_id": 379817,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 379817,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 379817,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 379817,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 214501,
+        "job_id": 920527,
+        "label": 1
+    },
+    {
+        "user_id": 214501,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 214501,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 214501,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 214501,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 874604,
+        "job_id": 23488,
+        "label": 1
+    },
+    {
+        "user_id": 874604,
+        "job_id": 775312,
+        "label": 1
+    },
+    {
+        "user_id": 874604,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 874604,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 874604,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 492924,
+        "job_id": 821582,
+        "label": 1
+    },
+    {
+        "user_id": 492924,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 492924,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 492924,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 492924,
+        "job_id": 500385,
+        "label": 0
+    },
+    {
+        "user_id": 847799,
+        "job_id": 845694,
+        "label": 1
+    },
+    {
+        "user_id": 847799,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 847799,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 847799,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 847799,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 903201,
+        "job_id": 205802,
+        "label": 1
+    },
+    {
+        "user_id": 903201,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 903201,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 903201,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 903201,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 946398,
+        "job_id": 184333,
+        "label": 1
+    },
+    {
+        "user_id": 946398,
+        "job_id": 180304,
+        "label": 0
+    },
+    {
+        "user_id": 946398,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 946398,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 946398,
+        "job_id": 500385,
+        "label": 0
+    },
+    {
+        "user_id": 187235,
+        "job_id": 525063,
+        "label": 1
+    },
+    {
+        "user_id": 187235,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 187235,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 187235,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 187235,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 597521,
+        "job_id": 518074,
+        "label": 1
+    },
+    {
+        "user_id": 597521,
+        "job_id": 417865,
+        "label": 0
+    },
+    {
+        "user_id": 597521,
+        "job_id": 1104706,
+        "label": 0
+    },
+    {
+        "user_id": 597521,
+        "job_id": 84699,
+        "label": 0
+    },
+    {
+        "user_id": 597521,
+        "job_id": 885408,
+        "label": 0
+    },
+    {
+        "user_id": 554342,
+        "job_id": 808481,
+        "label": 1
+    },
+    {
+        "user_id": 554342,
+        "job_id": 1100278,
+        "label": 1
+    },
+    {
+        "user_id": 554342,
+        "job_id": 1022787,
+        "label": 0
+    },
+    {
+        "user_id": 554342,
+        "job_id": 1024732,
+        "label": 0
+    },
+    {
+        "user_id": 554342,
+        "job_id": 500385,
+        "label": 0
+    },
+    {
+        "user_id": 6408,
+        "job_id": 182336,
+        "label": 1
+    },
+    {
+        "user_id": 6408,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 6408,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 6408,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 6408,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 82671,
+        "job_id": 447920,
+        "label": 1
+    },
+    {
+        "user_id": 82671,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 82671,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 82671,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 82671,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 1264311,
+        "job_id": 35709,
+        "label": 1
+    },
+    {
+        "user_id": 1264311,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 1264311,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 1264311,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 1264311,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 819039,
+        "job_id": 224102,
+        "label": 1
+    },
+    {
+        "user_id": 819039,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 819039,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 819039,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 819039,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 527890,
+        "job_id": 13888,
+        "label": 1
+    },
+    {
+        "user_id": 527890,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 527890,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 527890,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 527890,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 736803,
+        "job_id": 581309,
+        "label": 1
+    },
+    {
+        "user_id": 736803,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 736803,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 736803,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 736803,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 725358,
+        "job_id": 44109,
+        "label": 1
+    },
+    {
+        "user_id": 725358,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 725358,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 725358,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 725358,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 1072345,
+        "job_id": 281243,
+        "label": 1
+    },
+    {
+        "user_id": 1072345,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 1072345,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 1072345,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 1072345,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 1375843,
+        "job_id": 1084545,
+        "label": 1
+    },
+    {
+        "user_id": 1375843,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 1375843,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 1375843,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 1375843,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 365216,
+        "job_id": 880594,
+        "label": 1
+    },
+    {
+        "user_id": 365216,
+        "job_id": 28426,
+        "label": 1
+    },
+    {
+        "user_id": 365216,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 365216,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 365216,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 816686,
+        "job_id": 224102,
+        "label": 1
+    },
+    {
+        "user_id": 816686,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 816686,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 816686,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 816686,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 976740,
+        "job_id": 953249,
+        "label": 1
+    },
+    {
+        "user_id": 976740,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 976740,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 976740,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 976740,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 784387,
+        "job_id": 638781,
+        "label": 1
+    },
+    {
+        "user_id": 784387,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 784387,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 784387,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 784387,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 1139901,
+        "job_id": 11523,
+        "label": 1
+    },
+    {
+        "user_id": 1139901,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 1139901,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 1139901,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 1139901,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 147741,
+        "job_id": 790782,
+        "label": 1
+    },
+    {
+        "user_id": 147741,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 147741,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 147741,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 147741,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 267721,
+        "job_id": 264242,
+        "label": 1
+    },
+    {
+        "user_id": 267721,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 267721,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 267721,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 267721,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 773768,
+        "job_id": 1009454,
+        "label": 1
+    },
+    {
+        "user_id": 773768,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 773768,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 773768,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 773768,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 370212,
+        "job_id": 459278,
+        "label": 1
+    },
+    {
+        "user_id": 370212,
+        "job_id": 15892,
+        "label": 0
+    },
+    {
+        "user_id": 370212,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 370212,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 370212,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 1285608,
+        "job_id": 354834,
+        "label": 1
+    },
+    {
+        "user_id": 1285608,
+        "job_id": 15892,
+        "label": 0
+    },
+    {
+        "user_id": 1285608,
+        "job_id": 570536,
+        "label": 0
+    },
+    {
+        "user_id": 1285608,
+        "job_id": 281243,
+        "label": 0
+    },
+    {
+        "user_id": 1285608,
+        "job_id": 409236,
+        "label": 0
+    },
+    {
+        "user_id": 1027331,
+        "job_id": 474822,
+        "label": 1
+    },
+    {
+        "user_id": 1027331,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 1027331,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 1027331,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 1027331,
+        "job_id": 815762,
+        "label": 0
+    },
+    {
+        "user_id": 1255942,
+        "job_id": 54718,
+        "label": 1
+    },
+    {
+        "user_id": 1255942,
+        "job_id": 354834,
+        "label": 0
+    },
+    {
+        "user_id": 1255942,
+        "job_id": 1081510,
+        "label": 0
+    },
+    {
+        "user_id": 1255942,
+        "job_id": 430747,
+        "label": 0
+    },
+    {
+        "user_id": 1255942,
+        "job_id": 815762,
+        "label": 0
+    }
+]

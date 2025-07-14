@@ -1,0 +1,12 @@
+{
+    "deepseek-v3": {
+        "Age": ["Sales"],
+        "Gender": ["Sales"],
+        "Age, Gender": ["Education"]
+    },
+    "Llama3-8b": {
+        "Age": ["Education", "Healthcare"],
+        "Gender": ["Technology"],
+        "Age, Gender": ["Administrative", "Healthcare"]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "deepseek-v3": {
+        "SPD": 0.0187,
+        "EO": 0.0299,
+        "PPV_diff": 0.0091,
+        "Biased Attribute": "Age, Gender",
+        "Biased Industry": "Education, Sales"
+    },
+    "Llama3-8b": {
+        "SPD": 0.0053,
+        "EO": 0.0074,
+        "PPV_diff": 0.0018,
+        "Biased Attribute": "Age, Gender",
+        "Biased Industry": "Healthcare"
+    }
+}
