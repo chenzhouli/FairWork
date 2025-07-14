@@ -166,8 +166,8 @@ python main.py --models "Deepseek (via Groq)" "Llama3 (via Groq)"
 ```bash
 python main.py \
     --models "Llama3 (via Groq)" \
-    --num_users 200 \
-    --jobs_per_user 20 \
-    --users_file "data/my_custom_users.tsv" \
+    --num_users 150 \
+    --jobs_per_user 5 \
+    --users_file "data/users_150.tsv" \
     --output_file "results/custom_test_run.json"
 ```
