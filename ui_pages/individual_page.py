@@ -14,6 +14,18 @@ from ui_pages.ui_components import (
     extract_perturbations
 )
 
+def get_rank_group(rank, num_candidates):
+    if not 1 <= rank <= num_candidates:
+        return 'Invalid'
+    boundary_size = round(num_candidates / 3)
+    top_boundary = boundary_size
+    if rank <= top_boundary:
+        return 'Top'
+    bottom_boundary_start = num_candidates - boundary_size + 1
+    if rank >= bottom_boundary_start:
+        return 'Bottom'
+    return 'Middle'
+
 def render_page(llm_function, demo_mode_i=False):
     # =========== Individual Analysis ===========
     if "analysis_status" not in st.session_state:
@@ -211,18 +223,40 @@ def render_page(llm_function, demo_mode_i=False):
                 groups.setdefault(key, []).append(item)
             sum_score_diff = {}
             max_rank_diff = {}
+            sensitivity_level = {}
+
             for perturbed_keys, group_items in groups.items():
                 sum_score_diff[perturbed_keys] = sum(abs(item['score_diff']) for item in group_items)
                 max_rank_diff[perturbed_keys] = max(abs(item['rank_diff']) for item in group_items)
                 
-            sensitivity_level = {}
-            for key, rank in max_rank_diff.items():
-                if rank >= num_candidates * 0.6:
-                    sensitivity_level[key] = 3
-                elif rank >= num_candidates * 0.4:
-                    sensitivity_level[key] = 2
+                group_sensitivities = []
+                for item in group_items:
+                    original_rank = item['new_rank'] + item['rank_diff']
+                    new_rank = item['new_rank']
+
+                    if not (1 <= original_rank <= num_candidates and 1 <= new_rank <= num_candidates):
+                        continue
+
+                    original_group = get_rank_group(original_rank, num_candidates)
+                    new_group = get_rank_group(new_rank, num_candidates)
+
+                    item_sensitivity = 1 
+
+                    if (original_group == 'Middle' or original_group == 'Bottom') and new_group == 'Top':
+                        item_sensitivity = 3 
+                    elif original_group == 'Top' and (new_group == 'Middle' or new_group == 'Bottom'):
+                        item_sensitivity = 3
+                    elif original_group == 'Middle' and new_group == 'Bottom':
+                        item_sensitivity = 2
+                    elif original_group == 'Bottom' and new_group == 'Middle':
+                        item_sensitivity = 2  
+                    
+                    group_sensitivities.append(item_sensitivity)
+
+                if not group_sensitivities:
+                    sensitivity_level[perturbed_keys] = 1 
                 else:
-                    sensitivity_level[key] = 1
+                    sensitivity_level[perturbed_keys] = max(group_sensitivities)
 
 
             st.markdown(f''' 
