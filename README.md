@@ -43,7 +43,7 @@ This project uses data derived from the **CareerBuilder job recommendation datas
     ├── data_utils.py       # Tool functions
     └── ...
 │
-└── datas/
+└── data/
 ```
 
 ## 🚀 Getting Started
