@@ -1,0 +1,10 @@
+pandas
+streamlit
+matplotlib
+numpy
+requests
+scikit-learn
+openai
+groq
+wordcloud
+Pillow
