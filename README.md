@@ -35,7 +35,7 @@ This project uses data derived from the **CareerBuilder job recommendation datas
 │   └── group_page.py
 │   └── ui_components.py
 │
-└── functions/
+├── functions/
 │   ├── llm_services.py     # Handles all LLM API calls and client management
 │   ├── analysis.py         # Core analysis logic (prepare_data, run_single_model)
 │   ├── individual.py       # Logic specific to individual fairness
